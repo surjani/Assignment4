@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52255" started-at="2022-05-08T15:54:35 IST" finished-at="2022-05-08T15:55:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52255" started-at="2022-05-08T15:54:35 IST" finished-at="2022-05-08T15:55:27 IST">
+      <class name="com.sauce.qa.test.ProductRemoveandAddTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="setUp" is-config="true" duration-ms="40210" started-at="2022-05-08T15:53:55 IST" finished-at="2022-05-08T15:54:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="readJSONFile()[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="readJSONFile" is-config="true" duration-ms="6" started-at="2022-05-08T15:54:35 IST" finished-at="2022-05-08T15:54:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readJSONFile -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="385" started-at="2022-05-08T15:54:35 IST" finished-at="2022-05-08T15:54:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.successfulLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="successfulLogin()[pri:1, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="successfulLogin" duration-ms="14474" started-at="2022-05-08T15:54:35 IST" finished-at="2022-05-08T15:54:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLogin -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="16" started-at="2022-05-08T15:54:50 IST" finished-at="2022-05-08T15:54:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.addSLBInCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addSLBInCart()[pri:2, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="addSLBInCart" duration-ms="2801" started-at="2022-05-08T15:54:50 IST" finished-at="2022-05-08T15:54:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSLBInCart -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2022-05-08T15:54:53 IST" finished-at="2022-05-08T15:54:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.removeSLB()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="removeSLB()[pri:3, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="removeSLB" duration-ms="7606" started-at="2022-05-08T15:54:53 IST" finished-at="2022-05-08T15:55:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeSLB -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2022-05-08T15:55:00 IST" finished-at="2022-05-08T15:55:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.addNewItem()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addNewItem()[pri:4, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="addNewItem" duration-ms="2260" started-at="2022-05-08T15:55:00 IST" finished-at="2022-05-08T15:55:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewItem -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="18" started-at="2022-05-08T15:55:03 IST" finished-at="2022-05-08T15:55:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.clickOnCartBtn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickOnCartBtn()[pri:5, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="clickOnCartBtn" duration-ms="1305" started-at="2022-05-08T15:55:03 IST" finished-at="2022-05-08T15:55:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCartBtn -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="11" started-at="2022-05-08T15:55:04 IST" finished-at="2022-05-08T15:55:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.clickOnCheckoutBtn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickOnCheckoutBtn()[pri:6, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="clickOnCheckoutBtn" duration-ms="3153" started-at="2022-05-08T15:55:04 IST" finished-at="2022-05-08T15:55:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCheckoutBtn -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2022-05-08T15:55:07 IST" finished-at="2022-05-08T15:55:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.enterCheckoutInfo()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="enterCheckoutInfo()[pri:7, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="enterCheckoutInfo" duration-ms="9133" started-at="2022-05-08T15:55:07 IST" finished-at="2022-05-08T15:55:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCheckoutInfo -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2022-05-08T15:55:16 IST" finished-at="2022-05-08T15:55:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.clickOnFinishBtn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickOnFinishBtn()[pri:8, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="clickOnFinishBtn" duration-ms="7763" started-at="2022-05-08T15:55:16 IST" finished-at="2022-05-08T15:55:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnFinishBtn -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2022-05-08T15:55:24 IST" finished-at="2022-05-08T15:55:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sauce.qa.test.ProductRemoveandAddTest.successfulShopping()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="successfulShopping()[pri:9, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="successfulShopping" duration-ms="3155" started-at="2022-05-08T15:55:24 IST" finished-at="2022-05-08T15:55:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulShopping -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sauce.qa.test.ProductRemoveandAddTest@365c30cc]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-05-08T15:55:27 IST" finished-at="2022-05-08T15:55:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.qa.test.ProductRemoveandAddTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
